@@ -1,0 +1,14 @@
+# ninja log v5
+5	560	1670552897803266028	CMakeFiles/multiInheritance.dir/push_back.cpp.o	2e3b5321712f973e
+309	345	1670613226615626716	multiInheritance	395510182a122a31
+6	245	1670132813960800532	CMakeFiles/multiInheritance.dir/testPredirective.h.cpp.o	8b90bda12c9b63d6
+6	800	1670274935754959278	CMakeFiles/multiInheritance.dir/Book.cpp.o	ca3ff6ba2f701250
+5	426	1669857450227917324	CMakeFiles/multiInheritance.dir/main.cpp.o	df4c5a70f16d9c6b
+7	911	1670016817041464691	CMakeFiles/multiInheritance.dir/container.cpp.o	304963b31f80a14a
+6	263	1670132813978543433	CMakeFiles/multiInheritance.dir/pre-processor.cpp.o	7f36d8f60a72411c
+4	755	1670611744517336579	CMakeFiles/multiInheritance.dir/bitset.cpp.o	7989b7548fe9afff
+5	309	1670613226577835247	CMakeFiles/multiInheritance.dir/multi.cpp.o	a5e7abccb5a3c448
+5	340	1670216213367451905	CMakeFiles/multiInheritance.dir/w5_p1.cpp.o	a2fcfffb72f46fb
+0	158	1670817520377694775	build.ninja	3415c3bcde940383
+5	391	1670552897632387874	CMakeFiles/multiInheritance.dir/smart_pointer.cpp.o	afb03854370bd052
+5	374	1670552897615404437	CMakeFiles/multiInheritance.dir/Debug.cpp.o	b5a8c463e77db4b4
